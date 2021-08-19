@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HNG Task2</string>
+    <string name="label">Output: %s</string>
+    <string name="message">Message</string>
+</resources>
